@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nitin.alt99@gmail.com**
 
-- ⚡ Fun fact **I really enjoy reverse engineering thigns and I am a die hard barca fan**
+- ⚡ Fun fact **I really enjoy reverse engineering things and I am a die hard barca fan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
