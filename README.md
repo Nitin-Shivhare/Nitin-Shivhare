@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently looking for entry level opportunities where i can work in **professional environment**
 
-- 👨‍💻 All of my projects are available at [nitinshivhare.com](nitinshivhare.com)
+- 👨‍💻 All of my projects are available at [nitinshivhare.com](https://www.nitinshivhare.com/)
 
-- 📝 I regularly write articles on [opensourcewiki.tech](opensourcewiki.tech)
+- 📝 I regularly write articles on [opensourcewiki.tech](https://opensourcewiki.tech/)
 
 - 📫 How to reach me **nitin.alt99@gmail.com**
 
